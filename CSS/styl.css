@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+body {
+    display: flex;
+    justify-content: center;
+    background-image: url(../52780150560_593fec73e2_o.jpg);
+    background-repeat: no-repeat;
+}
+
+div#card {
+    background-color: red;
+    width: 70vw;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+div#profile {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+img#picture {
+    width: 250px;
+    border-radius: 5%;
+}
+
+div#informacoes {
+    
+    background-color: aquamarine;  
+    margin: 20px; 
+    border: 2px solid black;
+    border-radius: 5%;
+}
+
+p {
+    text-align: center;
+    padding: 5px;
+}
+
+div#code {
+    text-align: center;
+}
+
+div#contact {
+   text-align: center;
+   padding-bottom: 7px;
+}
+
+
